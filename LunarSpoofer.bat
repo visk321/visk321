@@ -200,7 +200,7 @@ cd ..
 cd %USERPROFILE%\.lunarclient\textures\assets\lunar\cosmetics\wings\
 del %wings1%.webp
 rename %USERPROFILE%\.lunarclient\textures\assets\lunar\cosmetics\wings\%wings2%.webp %wings1%.webp
-cd C:\Users\chave\.lunarclient\textures\assets\lunar\cosmetics\wings\thumbnail
+cd %USERPROFILE%.lunarclient\textures\assets\lunar\cosmetics\wings\thumbnail
 del %wings1%.webp
 rename %USERPROFILE%\.lunarclient\textures\assets\lunar\cosmetics\wings\thumbnail\%wings2%.webp %wings1%.webp
 cls
